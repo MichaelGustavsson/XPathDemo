@@ -13,7 +13,7 @@ namespace XPath
             String query;
 
             // Load the XML.
-            docNav = new XPathDocument(@"C:\Dev\Repos\XPathDemo\Flights.xml");
+            docNav = new XPathDocument(@"C:\Users\Administrator\Source\Repos\XPathDemo\XPath\Flights.xml");
 
             // Create a navigator to query with XPath.
             nav = docNav.CreateNavigator();

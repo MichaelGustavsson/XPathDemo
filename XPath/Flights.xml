@@ -1,0 +1,766 @@
+<Flights>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>189</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T11:03:00"/>
+		<Arrive datetime="2012-11-21T15:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>190</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T05:50:00"/>
+		<Arrive datetime="2012-11-21T09:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>191</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T12:55:00"/>
+		<Arrive datetime="2012-11-21T16:50:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>192</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T16:50:00"/>
+		<Arrive datetime="2012-11-21T20:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>193</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T16:50:00"/>
+		<Arrive datetime="2012-11-21T20:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>394</Number>
+		<Origin>LAX</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T12:00:00"/>
+		<Arrive datetime="2012-11-22T15:35:00"/>
+		<Miles>2600</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>395</Number>
+		<Origin>LAX</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T07:00:00"/>
+		<Arrive datetime="2012-11-22T10:35:00"/>
+		<Miles>2600</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>396</Number>
+		<Origin>HNL</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-22T07:00:00"/>
+		<Arrive datetime="2012-11-22T15:03:00"/>
+		<Miles>2600</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>397</Number>
+		<Origin>HNL</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-22T12:00:00"/>
+		<Arrive datetime="2012-11-22T20:03:00"/>
+		<Miles>2600</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>398</Number>
+		<Origin>HNL</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-21T22:00:00"/>
+		<Arrive datetime="2012-11-22T06:03:00"/>
+		<Miles>2600</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>470</Number>
+		<Origin>HNL</Origin>
+		<Destination>GCM</Destination>
+		<Depart datetime="2012-11-21T08:00:00"/>
+		<Arrive datetime="2012-11-22T13:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>471</Number>
+		<Origin>HNL</Origin>
+		<Destination>GCM</Destination>
+		<Depart datetime="2012-11-21T09:00:00"/>
+		<Arrive datetime="2012-11-22T14:35:00"/>
+		<Miles>6000</Miles>
+		<Meal>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>472</Number>
+		<Origin>HNL</Origin>
+		<Destination>GCM</Destination>
+		<Depart datetime="2012-11-21T10:00:00"/>
+		<Arrive datetime="2012-11-22T15:35:00"/>
+		<Miles>6000</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>473</Number>
+		<Origin>HNL</Origin>
+		<Destination>GCM</Destination>
+		<Depart datetime="2012-11-21T11:00:00"/>
+		<Arrive datetime="2012-11-22T16:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>474</Number>
+		<Origin>HNL</Origin>
+		<Destination>GCM</Destination>
+		<Depart datetime="2012-11-21T12:00:00"/>
+		<Arrive datetime="2012-11-22T17:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>475</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T16:00:00"/>
+		<Arrive datetime="2012-11-22T16:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>476</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T17:00:00"/>
+		<Arrive datetime="2012-11-22T17:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>477</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T18:00:00"/>
+		<Arrive datetime="2012-11-22T18:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>478</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T19:00:00"/>
+		<Arrive datetime="2012-11-22T19:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>479</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T20:00:00"/>
+		<Arrive datetime="2012-11-22T20:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>480</Number>
+		<Origin>GCM</Origin>
+		<Destination>HNL</Destination>
+		<Depart datetime="2012-11-22T21:00:00"/>
+		<Arrive datetime="2012-11-22T21:35:00"/>
+		<Miles>6000</Miles>
+		<Meal/>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>977</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T16:50:00"/>
+		<Arrive datetime="2012-11-21T20:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>978</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T12:50:00"/>
+		<Arrive datetime="2012-11-21T16:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>979</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T18:40:00"/>
+		<Arrive datetime="2012-11-21T22:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>980</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T09:00:00"/>
+		<Arrive datetime="2012-11-21T13:02:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>981</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T11:03:00"/>
+		<Arrive datetime="2012-11-21T15:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>982</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T05:50:00"/>
+		<Arrive datetime="2012-11-21T09:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>983</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T12:55:00"/>
+		<Arrive datetime="2012-11-21T16:50:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>984</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T16:50:00"/>
+		<Arrive datetime="2012-11-21T20:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>985</Number>
+		<Origin>LHR</Origin>
+		<Destination>ARN</Destination>
+		<Depart datetime="2012-11-21T16:50:00"/>
+		<Arrive datetime="2012-11-21T20:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>986</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T12:50:00"/>
+		<Arrive datetime="2012-11-21T16:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>987</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T18:40:00"/>
+		<Arrive datetime="2012-11-21T22:30:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>Falcon Airlines</Airline>
+		<Number>988</Number>
+		<Origin>ARN</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T09:00:00"/>
+		<Arrive datetime="2012-11-21T13:02:00"/>
+		<Miles>890</Miles>
+		<Meal>
+			<Breakfast/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>542</Number>
+		<Origin>TPA</Origin>
+		<Destination>MIA</Destination>
+		<Depart datetime="2012-11-21T18:00:00"/>
+		<Arrive datetime="2012-11-21T19:10:00"/>
+		<Miles>200</Miles>
+		<Meal>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>608</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T07:55:00"/>
+		<Arrive datetime="2012-11-22T17:30:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>609</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T09:05:00"/>
+		<Arrive datetime="2012-11-22T19:35:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>610</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T10:45:00"/>
+		<Arrive datetime="2012-11-22T20:10:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>611</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T12:35:00"/>
+		<Arrive datetime="2012-11-22T22:10:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>612</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T13:03:00"/>
+		<Arrive datetime="2012-11-22T23:00:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>613</Number>
+		<Origin>LHR</Origin>
+		<Destination>YYZ</Destination>
+		<Depart datetime="2012-11-22T04:55:00"/>
+		<Arrive datetime="2012-11-22T14:30:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>614</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T13:55:00"/>
+		<Arrive datetime="2012-11-22T05:30:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>615</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T19:05:00"/>
+		<Arrive datetime="2012-11-22T10:35:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>616</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T04:45:00"/>
+		<Arrive datetime="2012-11-21T20:10:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>617</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T17:35:00"/>
+		<Arrive datetime="2012-11-22T08:10:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>618</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T10:03:00"/>
+		<Arrive datetime="2012-11-22T05:00:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Lunch/>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>GreenJet Airlways</Airline>
+		<Number>619</Number>
+		<Origin>YYZ</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T21:55:00"/>
+		<Arrive datetime="2012-11-22T11:30:00"/>
+		<Miles>4000</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>190</Number>
+		<Origin>JFK</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T10:30:00"/>
+		<Arrive datetime="2012-11-22T20:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Breakfast/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>191</Number>
+		<Origin>JFK</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T12:30:00"/>
+		<Arrive datetime="2012-11-22T10:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>192</Number>
+		<Origin>JFK</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T14:30:00"/>
+		<Arrive datetime="2012-11-22T12:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>193</Number>
+		<Origin>JFK</Origin>
+		<Destination>LHR</Destination>
+		<Depart datetime="2012-11-21T18:30:00"/>
+		<Arrive datetime="2012-11-22T16:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Diner/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>290</Number>
+		<Origin>LHR</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-22T10:30:00"/>
+		<Arrive datetime="2012-11-22T13:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>291</Number>
+		<Origin>LHR</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-22T12:30:00"/>
+		<Arrive datetime="2012-11-22T15:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>292</Number>
+		<Origin>LHR</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-22T14:30:00"/>
+		<Arrive datetime="2012-11-22T17:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>293</Number>
+		<Origin>LHR</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-22T18:30:00"/>
+		<Arrive datetime="2012-11-22T21:30:00"/>
+		<Miles>3700</Miles>
+		<Meal>
+			<Diner/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>389</Number>
+		<Origin>LAX</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-21T08:30:00"/>
+		<Arrive datetime="2012-11-21T16:30:00"/>
+		<Miles>2500</Miles>
+		<Meal>
+			<Breakfast/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>390</Number>
+		<Origin>LAX</Origin>
+		<Destination>JFK</Destination>
+		<Depart datetime="2012-11-21T20:30:00"/>
+		<Arrive datetime="2012-11-22T06:30:00"/>
+		<Miles>2500</Miles>
+		<Meal>
+			<Diner/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>391</Number>
+		<Origin>JFK</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-21T08:30:00"/>
+		<Arrive datetime="2012-11-21T10:30:00"/>
+		<Miles>2500</Miles>
+		<Meal>
+			<Breakfast/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>392</Number>
+		<Origin>JFK</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-21T14:30:00"/>
+		<Arrive datetime="2012-11-22T16:30:00"/>
+		<Miles>2500</Miles>
+		<Meal>
+			<Lunch/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>393</Number>
+		<Origin>JFK</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-21T18:30:00"/>
+		<Arrive datetime="2012-11-22T21:30:00"/>
+		<Miles>2500</Miles>
+		<Meal>
+			<Diner/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>489</Number>
+		<Origin>LAX</Origin>
+		<Destination>NRT</Destination>
+		<Depart datetime="2012-11-21T08:30:00"/>
+		<Arrive datetime="2012-11-22T12:30:00"/>
+		<Miles>5500</Miles>
+		<Meal>
+			<Breakfast/>
+			<Diner/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>490</Number>
+		<Origin>LAX</Origin>
+		<Destination>NRT</Destination>
+		<Depart datetime="2012-11-21T13:30:00"/>
+		<Arrive datetime="2012-11-22T17:30:00"/>
+		<Miles>5500</Miles>
+		<Meal>
+			<Lunch/>
+			<Snack/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>491</Number>
+		<Origin>NRT</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-22T16:08:00"/>
+		<Arrive datetime="2012-11-22T09:40:00"/>
+		<Miles>5500</Miles>
+		<Meal>
+			<Breakfast/>
+			<Diner/>
+		</Meal>
+	</Flight>
+	<Flight>
+		<Airline>SwiftJet Airways</Airline>
+		<Number>492</Number>
+		<Origin>NRT</Origin>
+		<Destination>LAX</Destination>
+		<Depart datetime="2012-11-22T20:05:00"/>
+		<Arrive datetime="2012-11-22T13:15:00"/>
+		<Miles>5500</Miles>
+		<Meal>
+			<Breakfast/>
+			<Lunch/>
+		</Meal>
+	</Flight>
+</Flights>
